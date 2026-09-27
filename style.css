@@ -68,3 +68,9 @@ footer {
     width: 100%;
     bottom: 0;
 }
+/* Developer credit line in the footer */
+footer .developer {
+    margin: 4px 0 0;
+    font-size: 14px;
+    color: #cccccc;
+}
